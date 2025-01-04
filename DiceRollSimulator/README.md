@@ -33,13 +33,13 @@ The `DiceRollSimulator` is a simple Java program that simulates the rolling of a
 
 5. After the dice are rolled, the program will ask if you want to roll again. Type yes to roll again, or no to exit the program.
 
- ##Functions 
+Functions 
 main()
 The main method serves as the entry point of the program. It runs a loop to continually prompt the user for input and simulates rolling the dice.
 It uses Scanner for user input and Random for generating random dice rolls.
 After each set of rolls, the total sum of dice rolls is displayed, and the user is prompted whether to continue or exit.
-##Error Handling 
+Error Handling 
 The program includes basic error handling for invalid user input (non-numeric input).
 If a non-numeric value is entered when specifying the number of rolls, the program will notify the user and prompt them to try again.
-##Acknowledgments 
+Acknowledgments 
 This project was created as part of a simple learning exercise to simulate dice rolls in Java.
