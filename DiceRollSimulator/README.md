@@ -32,45 +32,7 @@ The `DiceRollSimulator` is a simple Java program that simulates the rolling of a
 4. The program will show you the dice face for each roll and the total sum of all rolls.
 
 5. After the dice are rolled, the program will ask if you want to roll again. Type yes to roll again, or no to exit the program.
-   Example Output :
-   Enter the number of times to roll the dice ?
-3
-About to roll 3 dice
-----------
-| o     o |
-|         |
-| o     o |
-----------
-----------
-| o       |
-|         |
-|       o |
-----------
-----------
-| o      |
-|   o    |
-|      o |
-----------
-Total of dice numbers that you have rolled till now : 12
-Do you want to roll the dice again? (yes/no)
-yes
-Enter the number of times to roll the dice ?
-2
-About to roll 2 dice
-----------
-| o     o |
-|         |
-| o     o |
-----------
-----------
-| o       |
-|         |
-|       o |
-----------
-Total of dice numbers that you have rolled till now : 17
-Do you want to roll the dice again? (yes/no)
-no
-Thank You for Playing!
+   
 Functions :
 main()
 The main method serves as the entry point of the program. It runs a loop to continually prompt the user for input and simulates rolling the dice.
